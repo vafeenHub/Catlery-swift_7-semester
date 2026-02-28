@@ -1,4 +1,4 @@
-# Simple gallery "Catlery" on swift
+# Simple gallery "Catlery" on swift 7 semester
 
 <p align="center">
   <img src="picture1.png" width="45%" alt="Описание 1">
